@@ -1,4 +1,4 @@
-
+require('events').EventEmitter;
 function Event(){
   //prototype  ->>>Object.prototype
 }

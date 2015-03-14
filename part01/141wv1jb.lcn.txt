@@ -1,0 +1,30 @@
+﻿ddd
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   .gitignore
+#	new file:   .idea/.name
+#	new file:   .idea/encodings.xml
+#	new file:   .idea/jsLibraryMappings.xml
+#	new file:   .idea/misc.xml
+#	new file:   .idea/modules.xml
+#	new file:   .idea/practice.iml
+#	new file:   .idea/scopes/scope_settings.xml
+#	new file:   .idea/vcs.xml
+#	new file:   .idea/workspace.xml
+#	new file:   1.txt
+#	new file:   console.js
+#	new file:   event.js
+#	new file:   log.txt
+#	new file:   module.js
+#	new file:   process.js
+#	new file:   process2.js
+#	new file:   ref.js
+#	new file:   repl.js
+#	new file:   test.js
+#
+
