@@ -1,0 +1,4 @@
+var s = 'zf
+;
+';
+var s= 'zf';
