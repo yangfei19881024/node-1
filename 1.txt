@@ -2,3 +2,4 @@ var s = 'zf
 ;
 ';
 var s= 'zf';
+var 2=1;
